@@ -1,0 +1,9 @@
+pandas
+pymupdf
+pypdf
+pdfplumber
+cryptography>=42
+python-dotenv
+google-genai
+pydantic
+requests
